@@ -18,7 +18,7 @@ This project put key Power BI features into practice. Here's what we mastered:
 * **Dashboard Design:** Crafting an intuitive and visually appealing report layout.
 * **Power Query ETL:** Performing data cleaning, shaping, and transformation.
 * **Data Modeling:** Building efficient data models with relationships (Star Schema principles).
-* **DAX Fundamentals:** Creating calculations, measures, and aggregations to derive key insights.
+* **DAX Fundamentals:** Creating calculations, Explicit measures, and aggregations to derive key insights.
 * **Visualizations Utilized:**
     * **Core Charts:** Column, Bar, Line, and Area charts for comparisons and trends.
     * **Cards:** To highlight key performance indicators.
