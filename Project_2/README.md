@@ -18,25 +18,24 @@ This project put key Power BI features into practice. Here's what we mastered:
 * **Dashboard Design:** Crafting an intuitive and visually appealing report layout.
 * **Power Query ETL:** Performing data cleaning, shaping, and transformation.
 * **Data Modeling:** Building efficient data models with relationships (Star Schema principles).
-* **DAX Fundamentals:** Creating calculations and aggregations to derive key insights.
+* **DAX Fundamentals:** Creating calculations, measures, and aggregations to derive key insights.
 * **Visualizations Utilized:**
     * **Core Charts:** Column, Bar, Line, and Area charts for comparisons and trends.
-    * **Map Charts:** For displaying geospatial data.
     * **Cards:** To highlight key performance indicators.
     * **Tables:** For presenting detailed, tabular information.
-    * **Chart Variety:** Selecting from common and uncommon chart types for effective storytelling.
-* **🖱️ Interactive Features:**
-    * **🎚️ Slicers:** Enabling dynamic, user-driven data filtering.
-    * **🔘 Buttons** For streamlined navigation and managing/resetting report views.
+    * **Chart Variety:** Selecting from common and uncommon chart types for effective storytelling. 
+* **Interactive Features:**
+    * **Slicers:** Enabling dynamic, user-driven data filtering.
+    * **Parameters:** Adding more in-depth analysis by connecting more currated slicers to specific visualizations
+    * **Buttons** For streamlined navigation and managing/resetting report views.
 ---
-
 ## Dashboard Overview (Version 2.0 - Single Page Focus)
 
 This second iteration consolidates the dashboard into a **single, focused page**, designed to give job seekers the most critical market insights at their fingertips.
 
 ![Data Jobs Dashboard v2.0](images/Project2_Dashboard_Page1.PNG) 
 
-This page acts as your concise mission control for the data job market. It showcases key performance indicators (KPIs) like **Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary**. You can also quickly see **Skill Popularity** (by job percent or count) and compare **Salaries across different Job Titles**, all designed for an efficient overview.
+This page acts as your concise mission control for the data job market. It showcases key performance indicators (KPIs) like **Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary**. You can also quickly see **Skill Popularity** (by job percent or count) and compare **Salaries across different Job Titles, Countries, and Years**, all designed for an efficient overview.
 
 ---
 
