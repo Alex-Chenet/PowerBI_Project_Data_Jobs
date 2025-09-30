@@ -4,12 +4,10 @@
   <img src="../Resources/images/Project2_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
 </a>
 
-> <a href="https://lukeb.co/powerbi-project2" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
-
 
 ## Introduction
 
-Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 data science job postings—rich with details on titles, salaries, and locations—this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
+Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** like myself to cut through the clutter! Using a real-world dataset of over **2 million** data science job  postings from 2023-2025—rich with details on titles, salaries, and locations—this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
 
 ### Dashboard File
 You can find the file for the dashboard here: [`Data_Jobs_Dashboard_2.0.pbix`](Jobs_Dashboard_Project_2.pbix).  
@@ -30,7 +28,7 @@ This project put key Power BI features into practice. Here's what we mastered:
     * **Chart Variety:** Selecting from common and uncommon chart types for effective storytelling.
 * **🖱️ Interactive Features:**
     * **🎚️ Slicers:** Enabling dynamic, user-driven data filtering.
-    * **🔘 Buttons & Bookmarks:** For streamlined navigation and managing report views (including Drill-Through).
+    * **🔘 Buttons** For streamlined navigation and managing/resetting report views.
 ---
 
 ## Dashboard Overview (Version 2.0 - Single Page Focus)
